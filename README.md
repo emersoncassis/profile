@@ -22,38 +22,38 @@ Instrutor Técnico e especialista em Infraestrutura de Redes, Segurança Eletrô
 
 #### 🤖 **Novembro 2024** - Protocolos para Agentes de IA
 - **[Google A2A: O TCP/IP da Era dos Agentes de IA](https://www.linkedin.com/pulse/google-a2a-o-tcpip-dos-agentes-de-ia-emerson-assis-brhjf)**
-- 🚀 *Milestone: Desenvolvimento de protocolos de comunicação para agentes de IA*
+- 🚀  Desenvolvimento de protocolos de comunicação para agentes de IA*
 
 #### 🧠 **Outubro 2024** - Fundamentos de IA & Contexto
 - **[Base do Contexto: O Futuro com IA está em Humanas](https://www.linkedin.com/pulse/base-do-contexto-o-futuro-com-ia-esta-em-humanas-emerson-assis-ef8hf)**
 - **[Por que toda empresa precisa do Model Context Protocol](https://www.linkedin.com/pulse/por-que-toda-empresa-precisa-do-model-context-protocol-emerson-assis-8ti9f)**
-- 🎯 *Milestone: Domínio de arquitetura de contextos para IA*
+- 🎯  Domínio de arquitetura de contextos para IA*
 
 #### 💡 **Setembro 2024** - Engenharia de Prompts
 - **[Prompt: Construtor de Prompts](https://www.linkedin.com/pulse/prompt-construtor-de-prompts-emerson-assis-oufdf)**
-- 🔧 *Milestone: Especialização em engenharia de prompts*
+- 🔧  Especialização em engenharia de prompts*
 
 ### 2019 - Otimização & Eficiência
 
 #### 💰 **10 de Julho 2019** - Infraestrutura Econômica
 - **[Infraestrutura de TI com Baixo Custo](https://www.linkedin.com/pulse/infraestrutura-de-ti-com-baixo-custo-emerson-assis)**
-- 💡 *Milestone: Otimização de custos em infraestrutura*
+- 💡  Otimização de custos em infraestrutura*
 
 ### 2018 - Estratégias de Backup
 
 #### 💾 **1 de Outubro 2018** - Backup Corporativo
 - **[Backup Automático Corporativo Open](https://www.linkedin.com/pulse/backup-autom%C3%A1tico-corporativo-open-emerson-assis)**
-- 🔄 *Milestone: Automação de backup corporativo*
+- 🔄  Automação de backup corporativo*
 
 ### 2017 - Segurança & Containerização
 
 #### 🔒 **2 de Agosto 2017** - Segurança Rápida
 - **[Firewall Linux Fácil em 10m](https://www.linkedin.com/pulse/firewall-linux-f%C3%A1cil-em-10m-emerson-assis)**
-- 🛡️ *Milestone: Implementação rápida de segurança*
+- 🛡️  Implementação rápida de segurança*
 
 #### 🐳 **29 de Janeiro 2017** - Revolução dos Containers
 - **[Docker: Isto pode mudar sua vida Ops/Infra](https://www.linkedin.com/pulse/docker-isto-pode-mudar-sua-vida-ops-infra-emerson-assis)**
-- 📦 *Milestone: Adoção de containers e automação de infra*
+- 📦  Adoção de containers e automação de infra*
 
 ---
 
