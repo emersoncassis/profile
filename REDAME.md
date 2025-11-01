@@ -1,6 +1,6 @@
 # 👨‍💻 Emerson Assis
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Technical+Instructor;AI+%26+Infrastructure+Specialist;Transforming+Complexity+into+Efficiency)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF75B&width=435&lines=Instrutor+T%C3%A9cnico;Especialista+em+Ecosistemas;TI+-+Redes+-+Seguran%C3%A7a+-+IA)](https://git.io/typing-svg)
 
 ---
 
