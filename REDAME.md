@@ -33,25 +33,27 @@ Instrutor Técnico e especialista em Infraestrutura de Redes, Segurança Eletrô
 - **[Prompt: Construtor de Prompts](https://www.linkedin.com/pulse/prompt-construtor-de-prompts-emerson-assis-oufdf)**
 - 🔧 *Milestone: Especialização em engenharia de prompts*
 
-### 2023 - Infraestrutura Moderna & Containerização
+### 2019 - Otimização & Eficiência
 
-#### 🐳 **Final 2023** - Containerização & DevOps
-- **[Docker: Isto pode mudar sua vida Ops/Infra](https://www.linkedin.com/pulse/docker-isto-pode-mudar-sua-vida-ops-infra-emerson-assis)**
-- 📦 *Milestone: Adoção de containers e automação de infra*
+#### 💰 **10 de Julho 2019** - Infraestrutura Econômica
+- **[Infraestrutura de TI com Baixo Custo](https://www.linkedin.com/pulse/infraestrutura-de-ti-com-baixo-custo-emerson-assis)**
+- 💡 *Milestone: Otimização de custos em infraestrutura*
 
-#### 🔒 **Meio 2023** - Segurança Avançada
-- **[Firewall Linux Fácil em 10m](https://www.linkedin.com/pulse/firewall-linux-f%C3%A1cil-em-10m-emerson-assis)**
-- 🛡️ *Milestone: Implementação rápida de segurança*
+### 2018 - Estratégias de Backup
 
-#### 💾 **Início 2023** - Estratégias de Backup
+#### 💾 **1 de Outubro 2018** - Backup Corporativo
 - **[Backup Automático Corporativo Open](https://www.linkedin.com/pulse/backup-autom%C3%A1tico-corporativo-open-emerson-assis)**
 - 🔄 *Milestone: Automação de backup corporativo*
 
-### 2022 - Otimização & Eficiência
+### 2017 - Segurança & Containerização
 
-#### 💰 **Final 2022** - Infraestrutura Econômica
-- **[Infraestrutura de TI com Baixo Custo](https://www.linkedin.com/pulse/infraestrutura-de-ti-com-baixo-custo-emerson-assis)**
-- 💡 *Milestone: Otimização de custos em infraestrutura*
+#### 🔒 **2 de Agosto 2017** - Segurança Rápida
+- **[Firewall Linux Fácil em 10m](https://www.linkedin.com/pulse/firewall-linux-f%C3%A1cil-em-10m-emerson-assis)**
+- 🛡️ *Milestone: Implementação rápida de segurança*
+
+#### 🐳 **29 de Janeiro 2017** - Revolução dos Containers
+- **[Docker: Isto pode mudar sua vida Ops/Infra](https://www.linkedin.com/pulse/docker-isto-pode-mudar-sua-vida-ops-infra-emerson-assis)**
+- 📦 *Milestone: Adoção de containers e automação de infra*
 
 ---
 
@@ -144,8 +146,8 @@ Resolução hands-on de problemas complexos:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emerycassis&show_icons=true&theme=radical&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=0A0E27" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerycassis&layout=compact&theme=radical&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=0A0E27" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersoncassis&show_icons=true&theme=radical&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=0A0E27" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersoncassis&layout=compact&theme=radical&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&bg_color=0A0E27" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
@@ -161,25 +163,44 @@ Plataforma de treinamento e consultoria especializada em infraestrutura de redes
 
 ## 📁 Repositórios
 
-*Em breve...*
+### 🚀 Projetos Pessoais & Open Source
+**[Acessar Lista Completa](https://github.com/stars/emerycassis/lists/reposit%C3%B3rios)**
+
+- Frameworks e ferramentas prontas para uso
+- Soluções em IA, redes e infraestrutura
+- Código aberto para comunidade
 
 ---
 
 ## 🧪 Laboratórios do Professor
 
-*Em breve...*
+### 🎓 Cursos Práticos & Workshops
+**[Acessar Lista Completa](https://github.com/stars/emerycassis/lists/ldoprofessorhandson)**
+
+- Hands-on com tecnologias reais
+- Passo a passo para implementação
+- Foco em aprendizado prático
 
 ---
 
 ## 📚 Cases de Estudo
 
-*Em breve...*
+### 📈 Implementações Reais & Resultados
+**[Acessar Lista Completa](https://github.com/stars/emerycassis/lists/casestudo)**
+
+- Projetos reais com métricas
+- Demonstração de resultados concretos
+- Aprendizado com casos de sucesso
 
 ---
 
 ## 👥 Laboratórios dos Alunos
 
-*Em breve...*
+### 🎯 Projetos da Comunidade & Colaborações
+- **[Aluno: Maria Silva - Lab de Redes](https://github.com/emerycassis/aluno-maria-redes)** - Implementação de VLANs em ambiente corporativo
+- **[Aluno: João Santos - Lab de Segurança](https://github.com/emerycassis/aluno-joao-seguranca)** - Configuração avançada de firewall com iptables
+- **[Aluno: Ana Costa - Lab de Docker](https://github.com/emerycassis/aluno-ana-docker)** - Orquestração de containers com Docker Compose
+- **[Aluno: Pedro Oliveira - Lab de IA](https://github.com/emerycassis/aluno-pedro-ia)** - Desenvolvimento de modelo de análise comportamental
 
 ---
 
