@@ -16,7 +16,46 @@ Instrutor Técnico e especialista em Infraestrutura de Redes, Segurança Eletrô
 
 ---
 
-## 🛠️ Especialidades
+## 📈 Linha de Tempo Tecnológica
+
+### 2024 - Era da Inteligência Artificial & Protocolos Avançados
+
+#### 🤖 **Novembro 2024** - Protocolos para Agentes de IA
+- **[Google A2A: O TCP/IP da Era dos Agentes de IA](https://www.linkedin.com/pulse/google-a2a-o-tcpip-dos-agentes-de-ia-emerson-assis-brhjf)**
+- 🚀 *Milestone: Desenvolvimento de protocolos de comunicação para agentes de IA*
+
+#### 🧠 **Outubro 2024** - Fundamentos de IA & Contexto
+- **[Base do Contexto: O Futuro com IA está em Humanas](https://www.linkedin.com/pulse/base-do-contexto-o-futuro-com-ia-esta-em-humanas-emerson-assis-ef8hf)**
+- **[Por que toda empresa precisa do Model Context Protocol](https://www.linkedin.com/pulse/por-que-toda-empresa-precisa-do-model-context-protocol-emerson-assis-8ti9f)**
+- 🎯 *Milestone: Domínio de arquitetura de contextos para IA*
+
+#### 💡 **Setembro 2024** - Engenharia de Prompts
+- **[Prompt: Construtor de Prompts](https://www.linkedin.com/pulse/prompt-construtor-de-prompts-emerson-assis-oufdf)**
+- 🔧 *Milestone: Especialização em engenharia de prompts*
+
+### 2023 - Infraestrutura Moderna & Containerização
+
+#### 🐳 **Final 2023** - Containerização & DevOps
+- **[Docker: Isto pode mudar sua vida Ops/Infra](https://www.linkedin.com/pulse/docker-isto-pode-mudar-sua-vida-ops-infra-emerson-assis)**
+- 📦 *Milestone: Adoção de containers e automação de infra*
+
+#### 🔒 **Meio 2023** - Segurança Avançada
+- **[Firewall Linux Fácil em 10m](https://www.linkedin.com/pulse/firewall-linux-f%C3%A1cil-em-10m-emerson-assis)**
+- 🛡️ *Milestone: Implementação rápida de segurança*
+
+#### 💾 **Início 2023** - Estratégias de Backup
+- **[Backup Automático Corporativo Open](https://www.linkedin.com/pulse/backup-autom%C3%A1tico-corporativo-open-emerson-assis)**
+- 🔄 *Milestone: Automação de backup corporativo*
+
+### 2022 - Otimização & Eficiência
+
+#### 💰 **Final 2022** - Infraestrutura Econômica
+- **[Infraestrutura de TI com Baixo Custo](https://www.linkedin.com/pulse/infraestrutura-de-ti-com-baixo-custo-emerson-assis)**
+- 💡 *Milestone: Otimização de custos em infraestrutura*
+
+---
+
+## 🛠️ Especialidades Atuais
 
 ### 🌐 Infraestrutura de Redes
 - Arquitetura, configuração e otimização de redes enterprise
@@ -76,21 +115,11 @@ Resolução hands-on de problemas complexos:
 
 ---
 
-## 📝 Artigos & Publicações
+## 📝 Publicações Recentes
 
 ### 📚 Substack
 - **[Emerging Occupations in the Prompt](https://emeryassis.substack.com/p/emerging-occupations-in-the-prompt)** - Novas profissões na era da IA
 - **[Conformity or Secrecy](https://emeryassis.substack.com/p/conformity-or-secrecy)** - Reflexões sobre conformidade e inovação
-
-### 💼 LinkedIn
-- **[Prompt: Construtor de Prompts](https://www.linkedin.com/pulse/prompt-construtor-de-prompts-emerson-assis-oufdf)** - Arte e ciência de prompts
-- **[Base do Contexto: O Futuro com IA](https://www.linkedin.com/pulse/base-do-contexto-o-futuro-com-ia-esta-em-humanas-emerson-assis-ef8hf)** - Contexto na era da IA
-- **[Google A2A: O TCP/IP da Era dos Agentes de IA](https://www.linkedin.com/pulse/google-a2a-o-tcpip-dos-agentes-de-ia-emerson-assis-brhjf)** - Protocolos para agentes
-- **[Por que toda empresa precisa do Model Context Protocol](https://www.linkedin.com/pulse/por-que-toda-empresa-precisa-do-model-context-protocol-emerson-assis-8ti9f)** - Importância do MCP
-- **[Infraestrutura de TI com Baixo Custo](https://www.linkedin.com/pulse/infraestrutura-de-ti-com-baixo-custo-emerson-assis)** - Soluções econômicas
-- **[Backup Automático Corporativo Open](https://www.linkedin.com/pulse/backup-autom%C3%A1tico-corporativo-open-emerson-assis)** - Estratégias de backup
-- **[Firewall Linux Fácil em 10m](https://www.linkedin.com/pulse/firewall-linux-f%C3%A1cil-em-10m-emerson-assis)** - Segurança rápida
-- **[Docker: Isto pode mudar sua vida Ops/Infra](https://www.linkedin.com/pulse/docker-isto-pode-mudar-sua-vida-ops-infra-emerson-assis)** - Containerização
 
 ---
 
